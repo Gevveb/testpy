@@ -41,6 +41,6 @@ def hangman():
             print("Grattis! Du vann!")
             break
     else:
-        print(f"Du förlorade! Ordet var '{word}'.")
+        print(f"Du förlorade! jag vann Ordet var '{word}'.")
         
 hangman()
